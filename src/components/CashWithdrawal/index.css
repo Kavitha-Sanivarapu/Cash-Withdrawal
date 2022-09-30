@@ -1,0 +1,69 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.bg-container {
+  background-color: #150b3e;
+  width: 40%;
+  padding: 30px;
+  border-radius: 15px;
+  font-family: 'Roboto';
+  height: 65vh;
+}
+.profile-container {
+  display: flex;
+}
+.symbol {
+  background-color: #c7d2fe;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  text-align: center;
+  padding-top: 17px;
+  margin-right: 20px;
+  color: #7c3aed;
+}
+.name {
+  color: #ffffff;
+  font-weight: lighter;
+  font-size: 20px;
+  margin-top: 25px;
+}
+.balance-container {
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+}
+.balance-text {
+  color: #585076;
+  font-size: 25px;
+}
+.amount-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 15vh;
+}
+.amount {
+  color: #ffffff;
+  font-size: 40px;
+}
+.text {
+  color: #585076;
+}
+.withdraw-heading {
+  color: #ffffff;
+  font-size: 30px;
+}
+.choose-sum {
+  color: #585076;
+}
+.list-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}

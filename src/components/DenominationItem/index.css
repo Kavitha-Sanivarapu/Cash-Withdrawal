@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.amount-button {
+  background-color: #382f5a;
+  color: #ffffff;
+  opacity: 0.8;
+  padding: 15px;
+  padding-left: 100px;
+  padding-right: 100px;
+  border-radius: 10px;
+  border-color: #ffffff;
+  border-width: 1px;
+  margin-bottom: 15px;
+  font-size: 25px;
+}
